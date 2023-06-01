@@ -1,4 +1,4 @@
-## Ukraine Coffee Analyze Case Study
+## Excel Sale Analysis
 
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 [![View Main Folder](https://img.shields.io/badge/View-Main_Folder-971901?)](https://github.com/quangcaophan/Ukraine-Coffee-Analyze)
@@ -21,7 +21,7 @@ You will present to the Manager, who is not familiar with data science concepts 
 ## ASK
 
 <p align="center">
-  <img src="/IMG/10.png">
+  <img src="Excel Sale Analysis/IMG/10.png">
 
 ## PREPARE
 
@@ -44,22 +44,22 @@ then we will edit the
 - Contract code numeric by removing the word
 
 <p align="center">
-  <img src="/IMG/1.png">
+  <img src="Excel Sale Analysis/IMG/1.png">
 
 - Corrected the Branch column by bringing back the correct spelling and removing missing data
 
 <p align="center">
-  <img src="/IMG/2.png">
+  <img src="Excel Sale Analysis/IMG/2.png">
 
 - Adjust the column of payment method to cash and transfer
 
 <p align="center">
-  <img src="/IMG/3.png">
+  <img src="Excel Sale Analysis/IMG/3.png">
 
 - Split Receipt date into day, month, week
 
 <p align="center">
-  <img src="/IMG/4.png">
+  <img src="Excel Sale Analysis/IMG/4.png">
 
 ## ANALYZE
 
@@ -83,7 +83,7 @@ Times City|	311,979,000|
 Võ Thị Sáu|	793,760,000|
 
 <p align="center">
-  <img src="/IMG/5.png">
+  <img src="Excel Sale Analysis/IMG/5.png">
 
 
 ### Calculating total sales revenue from each source MOL,Renew,PR
@@ -95,15 +95,15 @@ PR |	571,718,000|
 Renew |	1,035,064,000|
 
 <p align="center">
-  <img src="/IMG/6.png">
+  <img src="Excel Sale Analysis/IMG/6.png">
 
 ### Make a summary table: Quantity and ratio of each branch/ each revenue source
 
 <p align="center">
-  <img src="/IMG/7.png">
+  <img src="Excel Sale Analysis/IMG/7.png">
 
 <p align="center">
-  <img src="/IMG/8.png">
+  <img src="Excel Sale Analysis/IMG/8.png">
 
 ### How many forms of payment are there? How much revenue is recognized per form? Ranking
 
@@ -113,7 +113,7 @@ Chuyển khoản|	510|	5,438,264,000|
 Thanh toán tiền mặt|	89	|919,690,000|
 
 <p align="center">
-  <img src="/IMG/9.png">
+  <img src="Excel Sale Analysis/IMG/9.png">
 
 ### Rank students A,B,C,D Make a summary table: Number and percentage of students A,B,C,D
 
@@ -125,13 +125,13 @@ C	|41.21%|
 D	|20.10%|
 
 <p align="center">
-  <img src="/IMG/11.png">
+  <img src="Excel Sale Analysis/IMG/11.png">
 
 ## ACT
 For the last step in the data analysis process, we will make three recommendations. But first, we'll lay out three key insights.
 
 <p align="center">
-  <img src="/IMG/12.png">
+  <img src="Excel Sale Analysis/IMG/12.png">
 
 
 
