@@ -88,11 +88,11 @@ Võ Thị Sáu|	793,760,000|
 
 ### Calculating total sales revenue from each source MOL,Renew,PR
 
-source|	Doanh thu|
-----------|----------|
-MOL |	4,477,202,000|
-PR |	571,718,000|
-Renew |	1,035,064,000|
+source    |	Doanh thu    |
+----------|--------------|
+MOL       |	4,477,202,000|
+PR        |	571,718,000  |
+Renew     |	1,035,064,000|
 
 <p align="center">
   <img src="Excel Sale Analysis/IMG/6.png">
@@ -107,10 +107,10 @@ Renew |	1,035,064,000|
 
 ### How many forms of payment are there? How much revenue is recognized per form? Ranking
 
-payment method|	Số lượng Hình thức thanh toán|	Doanh thu|
-----------|------------------------------|-----------|
-Chuyển khoản|	510|	5,438,264,000|
-Thanh toán tiền mặt|	89	|919,690,000|
+payment method     |	Số lượng Hình thức thanh toán|	Doanh thu    |
+-------------------|-------------------------------|---------------|
+Chuyển khoản       |	510                          |	5,438,264,000|
+Thanh toán tiền mặt|	89	                         |  919,690,000  |
 
 <p align="center">
   <img src="Excel Sale Analysis/IMG/9.png">
@@ -118,7 +118,7 @@ Thanh toán tiền mặt|	89	|919,690,000|
 ### Rank students A,B,C,D Make a summary table: Number and percentage of students A,B,C,D
 
 students|Tỷ lệ|
-----------|-----|
+--------|-----|
 A	|10.05%|
 B	|28.64%|
 C	|41.21%|
@@ -128,8 +128,6 @@ D	|20.10%|
   <img src="Excel Sale Analysis/IMG/11.png">
 
 ## ACT
-For the last step in the data analysis process, we will make three recommendations. But first, we'll lay out three key insights.
-
 <p align="center">
   <img src="Excel Sale Analysis/IMG/12.png">
 
